@@ -5,6 +5,6 @@ The source data resides in S3 and needs to be processed in Sparkify's data wareh
 
 #### Dag Diagram
 
-<img src="diagram.png"
+<img src="Dag Diagram.png"
      alt="Schema"
  />
